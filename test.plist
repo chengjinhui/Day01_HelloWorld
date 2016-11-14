@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.creditcloud.*</string>
+				<string>com.creditcloud.app</string>
 				<key>bundle-version</key>
 				<string>4</string>
 				<key>kind</key>
