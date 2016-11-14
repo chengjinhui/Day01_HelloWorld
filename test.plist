@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.ipa</string>
+					<string>https://github.com/chengjinhui/Day01_HelloWorld/blob/master/JiMeiJinFu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>https://github.com/chengjinhui/Day01_HelloWorld/blob/master/AppIcon60x60%403x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://x5.justep.com/apps/x5.png</string>
+					<string>https://github.com/chengjinhui/Day01_HelloWorld/blob/master/AppIcon60x60%403x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.justep.x5.demo</string>
+				<string>com.creditcloud.jimeijinfu</string>
 				<key>bundle-version</key>
 				<string>5.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>X5 App download</string>
+				<string>com.creditcloud.jimeijinfu App download</string>
 			</dict>
 		</dict>
 	</array>
