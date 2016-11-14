@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.creditcloud.jimeijinfu</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>com.creditcloud.jimeijinfu App download</string>
+				<string>集美金服</string>
 			</dict>
 		</dict>
 	</array>
