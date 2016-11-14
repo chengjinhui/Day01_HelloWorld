@@ -15,17 +15,13 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>display-image</string>
 					<key>url</key>
 					<string>https://github.com/chengjinhui/Day01_HelloWorld/blob/master/AppIcon60x60%403x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://github.com/chengjinhui/Day01_HelloWorld/blob/master/AppIcon60x60%403x.png</string>
 				</dict>
@@ -33,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.creditcloud.app</string>
+				<string>com.creditcloud.jimeijinfu</string>
 				<key>bundle-version</key>
-				<string>4</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>集美金服</string>
+				<string>JiMeiJinFu</string>
 			</dict>
 		</dict>
 	</array>
